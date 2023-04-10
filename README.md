@@ -1,6 +1,6 @@
 # 위험 비행물 탐지 시스템(Hazardous Flying Object Detection System)
 - This repo is to record Microsoft AI School Team 2 Project.
-
+[![Test_Video](http://img.youtube.com/vi/vazHlnl1alg/0.jpg)](https://youtu.be/vazHlnl1alg)
 
 ## I. Summary of Project and Team
 - Microsoft AI School Team 2 Project
